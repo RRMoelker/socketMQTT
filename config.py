@@ -1,0 +1,6 @@
+SOCKET_HOST = 'localhost'
+SOCKET_PORT = 12345
+
+MQTT_HOST = "m20.cloudmqtt.com"
+MQTT_PORT = 10576
+MQTT_AUTHENTICATE = True
