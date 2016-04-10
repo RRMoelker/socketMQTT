@@ -5,6 +5,8 @@ Devices such as the Wipy.
 Forwards topic messages send over socket connection to MQTT broker.
 Currently only forwarding of messages is supported (publishing).
 
+![Socket MQTT proxy demo](https://cloud.githubusercontent.com/assets/205326/14408839/f8c5883c-ff04-11e5-8773-0e1f2611d478.gif)
+
 ## Install
 
 Run `pip install -r requirements.txt`. Advanced users don't forget to use a virtualenv.
